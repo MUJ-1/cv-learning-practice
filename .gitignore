@@ -4,3 +4,4 @@ __pycache__/
 .vscode/
 classical_cv/Classical-computer-vision-main
 cv_learning_env/
+credentials.txt
