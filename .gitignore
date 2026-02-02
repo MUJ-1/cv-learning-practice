@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+classical_cv/Classical-computer-vision-main
+cv_learning_env/
